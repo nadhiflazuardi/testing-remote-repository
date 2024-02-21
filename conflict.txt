@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 coba konflik main
-=======
-coba konflik development
->>>>>>> development
